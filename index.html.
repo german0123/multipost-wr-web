@@ -1,1 +1,26 @@
-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MultiPost WR — Página oficial</title>
+<link rel="icon" href="./WhatsApp%20Image%202026-10-17%20at%2011.07.02.jpeg">
+<style>
+body{font-family:Arial,sans-serif;background:#07152e;color:white;text-align:center;padding:50px 20px}
+img{width:180px;height:180px;object-fit:cover;border-radius:28px}
+h1{font-size:2.4rem}
+p{color:#d5deef;font-size:1.1rem}
+a{color:#fff;margin:12px}
+</style>
+</head>
+<body>
+<img src="./WhatsApp%20Image%202026-10-17%20at%2011.07.02.jpeg" alt="Icono de MultiPost">
+<h1>MultiPost WR</h1>
+<p>Tu contenido, tus redes, todo en un mismo lugar.</p>
+<p>Herramienta para organizar publicaciones en redes sociales.</p>
+<p>
+<a href="./privacy.html">Política de privacidad</a> |
+<a href="./terms.html">Términos del servicio</a>
+</p>
+</body>
+</html>
