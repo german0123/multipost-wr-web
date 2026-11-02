@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://german0123.github.io/multipost-wr-web/sitemap.xml
